@@ -1,28 +1,160 @@
-<h1 align="center">Hi 👋, I'm Haydar Can Durmaz</h1>
-<h3 align="center">A passionate Software Developer Engineer in Test (SDET) from Turkey</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
+ 
+  
+  ### Hi there 👋   [Email Me](mailto:candrhydr@hotmail.com)
+   
+            
+  <h1 align="left">About Me 💻<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div >
+            - 👨‍💻 I am a hardworking Software Development Engineer in Test from Turkey.<br/>
+				- 💼 I’m currently working on Techno Study Company as  QA and teach support.<br/>
+				- 🌱 I’m presently learning extra testing tools which i don't know and  further developing my coding skills . <br/></h1>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/><br/><h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="50" height="50" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+   <td align="center" width="96">
+   
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/197982/html.svg" width="48" height="48" alt="Html" />
+      </a>
+      <br>Html
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48" height="48" alt="Selenium" />
+      </a>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" width="48" height="48" alt="TestNG" />
+      </a>
+      <br>TestNG
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/353625/cucumber.svg" alt="cucumber" width="48" height="48" alt="Cucumber" />
+      </a>
+      <br>Cucumber
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.svgrepo.com/show/353400/apache.svg" width="48" height="48" alt="ApachePOI" />
+      </a>
+      <br>ApachePOI
+    </td>
+   </td>
+    <td align="center" width="96">
+     
+      
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/306453/mysql.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://nehajain216.github.io/img/jdbc.png" width="48" height="48" alt="JDBC" />
+      </a>
+      <br>JDBC
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="48" height="48" alt="REST Assured" />
+      </a>
+      <br>RestAssured
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/344880/github.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+   </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/108164455/209452977-23662e97-8f89-4a78-8172-70ae174df18c.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/353929/jenkins.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/376328/jira.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://pbs.twimg.com/profile_images/1034362081141817344/Yv4OcNVG_400x400.jpg" width="48" height="48" alt="Xray" />
+      </a>
+      <br>Xray
+    </td>
+   </td>
+    <td align="center" width="96">
+     
+      
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://user-images.githubusercontent.com/108164455/209253267-1f039c1b-3732-440b-947b-d2c3f8d7cd68.png" width="48" height="48" alt="Maven" />
+      </a>
+      <br>Maven
+  </tr>
+</table>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haydarcandurmaz&label=Profile%20views&color=0e75b6&style=flat" alt="haydarcandurmaz" /> </p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **TECHNO STUDY Company as a SDET,QA**
+   <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-- 🌱 I’m currently learning **Python C+**
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-- 📫 How to reach me **candrhydr@hotmail.com**
+|       [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)       |                                                                                                                                                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![abdul-533's github stats](https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&theme=radical&include_all_commits=true) | ![abdul-533's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-533&theme=radical&layout=compact) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/haydarcandurmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haydarcandurmaz" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haydarcandurmaz&show_icons=true&locale=en&layout=compact" alt="haydarcandurmaz" /></p>
+   
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdul-533&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haydarcandurmaz&show_icons=true&locale=en" alt="haydarcandurmaz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haydarcandurmaz&" alt="haydarcandurmaz" /></p>
+ ## ⚡ The number of people who viewed my profile
+<div>
+<p align="right"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /> </p> 
+</div>
+      
