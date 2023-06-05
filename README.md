@@ -1,3 +1,4 @@
+   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
  
@@ -5,11 +6,14 @@
   ### Hi there 👋   [Email Me](mailto:candrhydr@hotmail.com)
    
             
-  <h1 align="left">About Me 💻<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </div >
             - 👨‍💻 I am a hardworking Software Development Engineer in Test from Turkey.<br/>
 				- 💼 I’m currently working on Techno Study Company as  QA and teach support.<br/>
-				- 🌱 I’m presently learning extra testing tools which i don't know and  further developing my coding skills . <br/></h1>
+        - 🌱 I’m currently learning **Python C++**
+
+- 📫 How to reach me **candrhydr@hotmail.com*
+				- 🌱 I’m always learning new testing tools  . <br/></h1>
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/><br/><h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <table align="center">
   <tr>
@@ -18,9 +22,6 @@
         <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="50" height="50" alt="Java" />
       </a>
       <br>Java
-    </td>
-   <td align="center" width="96">
-   
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -59,10 +60,6 @@
       <br>ApachePOI
     </td>
    </td>
-    <td align="center" width="96">
-     
-      
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/306453/mysql.svg" width="48" height="48" alt="MySQL" />
@@ -121,10 +118,6 @@
     </td>
    </td>
     <td align="center" width="96">
-     
-      
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://user-images.githubusercontent.com/108164455/209253267-1f039c1b-3732-440b-947b-d2c3f8d7cd68.png" width="48" height="48" alt="Maven" />
       </a>
@@ -144,8 +137,7 @@
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 |       [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)       |                                                                                                                                                                                                                                                          |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![abdul-533's github stats](https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&theme=radical&include_all_commits=true) | ![abdul-533's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-533&theme=radical&layout=compact) |
+
 
 
 
