@@ -143,7 +143,7 @@
 
    
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Haydar Can Durmaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
+![](https://github-profile-trophy.vercel.app/?username = Haydar Can Durmaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
 
  ## ⚡ The number of people who viewed my profile
 <div>
