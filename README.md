@@ -8,12 +8,13 @@
             
  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </div >
-            - 👨‍💻 I am a hardworking Software Development Engineer in Test from Turkey.<br/>
+            - 👨‍💻 I am an Automation Tester with experience in SDLC, STLC, and Debugging Lifecycle in an Agile environment and experienced in Scrum Approach. I do manual and automation tests of applications. In my tests, I use Java as the programming language and Selenium WebDriver, TestNG, Cucumber and Postman as test tools. The functional tests I do are UI Testing, DB Testing, API Testing, Smoke Testing and Regression Testing.
+I am positive and solution-oriented, prone to teamwork, keen on new technologies, open to learning, and highly skilled in document analysis..<br/>
 				- 💼 I’m currently working on Techno Study Company as  QA and teach support.<br/>
         - 🌱 I’m currently learning **Python C++**
 
 - 📫 How to reach me **candrhydr@hotmail.com*
-				- 🌱 I’m always learning new testing tools  . <br/></h1>
+				- 🌱 I’m always search and learning new testing tools  . <br/></h1>
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/><br/><h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <table align="center">
   <tr>
