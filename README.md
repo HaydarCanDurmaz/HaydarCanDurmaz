@@ -136,17 +136,17 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-|       [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)       |                                                                                                                                                                                                                                                          |
+|       [![GitHub Streak](https://streak-stats.demolab.com?user=Haydar Can Durmaz&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)       |                                                                                                                                                                                                                                                          |
 
 
 
 
    
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdul-533&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
+![](https://github-profile-trophy.vercel.app/?username=Haydar Can Durmaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
 
  ## ⚡ The number of people who viewed my profile
 <div>
-<p align="right"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /> </p> 
+<p align="right"><img align="center" src="https://profile-counter.glitch.me/{Haydar Can Durmaz}/count.svg" /> </p> 
 </div>
       
