@@ -8,8 +8,8 @@
             
  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </div >
-            - 👨‍💻 I am a hardworking Software Test Automaition Engineer in Test from Turkey.<br/>
-				- - 👨‍💻 I am an Automation Tester with experience in SDLC, STLC, and Debugging Lifecycle in an Agile environment and experienced in Scrum Approach. I do manual and automation tests of applications. In my tests, I use Java as the programming language and Selenium WebDriver, TestNG, Cucumber and Postman as test tools. The functional tests I do are UI Testing, DB Testing, API Testing, Smoke Testing and Regression Testing. I am positive and solution-oriented, prone to teamwork, keen on new technologies, open to learning, and highly skilled in document analysis..
+            - 👨‍💻 I am a hardworking Software Test Automation Engineer in Test from Turkey.<br/>
+				- - 👨‍💻 Passionate and solution-oriented QA Engineer with 3+ years of experience, seeking to deliver top-quality work with detailed and neat test cases and test scenarios while expanding knowledge in Agile projects. Experienced in a wide variety of testing activities including but not limited to Frontend Testing, API Testing, Backend Testing, Smoke Test, Regression Test, System Integration Test, and Black and Grey Box Testing, at all test levels. A flexible team player, self-motivated bug hunter, and creative thinker with outstanding communication skills.
 - 💼 I’m currently working on Techno Study Company as QA and teach support.
 - 🌱 I’m currently learning **Python C++**
 📫 How to reach me *candrhydr@hotmail.com -  skills . <br/></h1><br/>
@@ -145,7 +145,7 @@
 
 |       [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)       |                                                                                                                                                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![abdul-533's github stats](https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&theme=radical&include_all_commits=true) | ![abdul-533's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-533&theme=radical&layout=compact) |
+| ![HaydarCanDurmaz's github stats](https://github-readme-stats.vercel.app/api?username=HaydarCanDurmaz&show_icons=true&theme=radical&include_all_commits=true) | ![HaydarCanDurmaz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HaydarCanDurmaz&theme=radical&layout=compact) |
 
 
 
