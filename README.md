@@ -11,7 +11,7 @@
             - 👨‍💻 I am a hardworking Software Test Automation Engineer in Test from Turkey.<br/>
 				- - 👨‍💻 Passionate and solution-oriented QA Engineer with 3+ years of experience, seeking to deliver top-quality work with detailed and neat test cases and test scenarios while expanding knowledge in Agile projects. Experienced in a wide variety of testing activities including but not limited to Frontend Testing, API Testing, Backend Testing, Smoke Test, Regression Test, System Integration Test, and Black and Grey Box Testing, at all test levels. A flexible team player, self-motivated bug hunter, and creative thinker with outstanding communication skills.
 - 💼 I’m currently working on Techno Study Company as QA and teach support.
-- 🌱 I’m currently learning **Python C++**
+- 🌱 
 📫 How to reach me *candrhydr@hotmail.com -  skills . <br/></h1><br/>
 				
 <div>
