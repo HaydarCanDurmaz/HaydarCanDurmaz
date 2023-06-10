@@ -157,7 +157,6 @@
 <div>
 <p align="right"><img align="center" src="https://profile-counter.glitch.me/{HaydarCanDurmaz}/count.svg" /> </p> 
 </div>
-The number of visitors to this page in this section started on June 9 , 2023 :heart:<br/>
-<br>
+
      
 
