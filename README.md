@@ -1,21 +1,27 @@
-   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
  
-  
-  ### Hi there 👋   [Email Me](mailto:candrhydr@hotmail.com)
-   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+HaydarCan+Durmaz;+Welcome+to+My+Profile!;I+have+3+years%2B+experience+as+a+SDET...)](https://git.io/typing-svg)
+
+ [Email Me 📧](mailto:candrhydr@hotmail.com) 
+            
             
  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </div >
-            - 👨‍💻 I am an Automation Tester with experience in SDLC, STLC, and Debugging Lifecycle in an Agile environment and experienced in Scrum Approach. I do manual and automation tests of applications. In my tests, I use Java as the programming language and Selenium WebDriver, TestNG, Cucumber and Postman as test tools. The functional tests I do are UI Testing, DB Testing, API Testing, Smoke Testing and Regression Testing.
-I am positive and solution-oriented, prone to teamwork, keen on new technologies, open to learning, and highly skilled in document analysis..<br/>
-				- 💼 I’m currently working on Techno Study Company as  QA and teach support.<br/>
-        - 🌱 I’m currently learning **Python C++**
-
-- 📫 How to reach me **candrhydr@hotmail.com*
-				- 🌱 I’m always search and learning new testing tools  . <br/></h1>
-<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/><br/><h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+            - 👨‍💻 I am a hardworking Software Test Automaition Engineer in Test from Turkey.<br/>
+				- - 👨‍💻 I am an Automation Tester with experience in SDLC, STLC, and Debugging Lifecycle in an Agile environment and experienced in Scrum Approach. I do manual and automation tests of applications. In my tests, I use Java as the programming language and Selenium WebDriver, TestNG, Cucumber and Postman as test tools. The functional tests I do are UI Testing, DB Testing, API Testing, Smoke Testing and Regression Testing. I am positive and solution-oriented, prone to teamwork, keen on new technologies, open to learning, and highly skilled in document analysis..
+- 💼 I’m currently working on Techno Study Company as QA and teach support.
+- 🌱 I’m currently learning **Python C++**
+📫 How to reach me *candrhydr@hotmail.com -  skills . <br/></h1><br/>
+				
+<div>
+<a href="https://www.linkedin.com/in/haydar-can-durmaz-98b04826a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://instagram.com/canhydrmz?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23800080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+</div>
+								
+<br/> <br/> <br/> <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -133,20 +139,27 @@ I am positive and solution-oriented, prone to teamwork, keen on new technologies
 </div>
 
 
-   <h2 style="color: #44AEFB">📊 Statistics</h2>
+   <h2 style="color: #48d1cc">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-                                                                                                                                                                                                                                                        |
 
+|       [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)       |                                                                                                                                                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![abdul-533's github stats](https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&theme=radical&include_all_commits=true) | ![abdul-533's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-533&theme=radical&layout=compact) |
 
 
 
    
 ## 🏆 GitHub Trophies
-   
+![](https://github-profile-trophy.vercel.app/?username=HaydarCanDurmaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
 
  ## ⚡ The number of people who viewed my profile
 <div>
-<p align="right"><img align="center" src="https://profile-counter.glitch.me/{Haydar Can Durmaz}/count.svg" /> </p> 
+<p align="right"><img align="center" src="https://profile-counter.glitch.me/{HaydarCanDurmaz}/count.svg" /> </p> 
 </div>
-      
+The number of visitors to this page in this section started on June 9 , 2023 :heart:<br/>
+<br>
+     
+<a href="https://info.flagcounter.com/pVyV"><img src="https://s11.flagcounter.com/map/pVyV/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+<a href="https://info.flagcounter.com/ZeHB"><img src="https://s
